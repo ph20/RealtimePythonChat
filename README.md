@@ -8,6 +8,5 @@ https://code.tutsplus.com/tutorials/build-a-real-time-chat-application-with-modu
 ![Chat image](https://raw.githubusercontent.com/quangtqag/RealtimePythonChat/master/galery/ss2.png "")
 
 Pull it and run: 
-`source venv/bin/activate`
-
-`python server.py`
+* `source venv/bin/activate`
+* `python server.py`
