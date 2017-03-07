@@ -9,4 +9,5 @@ https://code.tutsplus.com/tutorials/build-a-real-time-chat-application-with-modu
 
 Pull it and run: 
 * `source venv/bin/activate`
+* `pip install -r requirements.txt --user`
 * `python server.py`
