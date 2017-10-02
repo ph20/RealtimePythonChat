@@ -1,4 +1,4 @@
-# RealtimePythonChat
+### RealtimePythonChat ###
 Sample chat written by Python using Flask and Socket.io
 
 Based on tutorial of Hüseyin Babal
